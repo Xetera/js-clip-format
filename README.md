@@ -1,6 +1,6 @@
 # js-clip-format
 
-Format the javascript/typescript code in your clipboard. If you're asking for help online, the least you can do is make sure your code is pretty and easy to read.
+Format the javascript/typescript code in your clipboard with a single shortcut. If you're asking for help online, the least you can do is make sure your code is pretty and easy to read.
 
 When you copy paste code from an indented block in your text editor, that indentation carries out to other programs. That's pretty annoying.
 
@@ -21,7 +21,7 @@ Make sure you have these memes installed before proceeding.
 
 ### Installation
 
-Download `ftm.sh` and save it as a shortcut (I use ctrl + shift + 3)
+Download `ftm.sh` and save it as a shortcut (I use ctrl + alt + 2)
 
 ### Usage
 
