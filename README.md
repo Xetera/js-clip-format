@@ -21,10 +21,10 @@ Make sure you have these memes installed before proceeding.
 
 ### Installation
 
-Download `ftm.sh` and save it as a shortcut (I use ctrl + alt + 2)
+Download `fmt.sh` and save it as a shortcut (I use ctrl + alt + 2)
 
 ### Usage
 
 1. Copy bad code (or if you're like me, just any code you've ever written) into your clipboard
-2. Run `ftm.sh`
+2. Run `fmt.sh`
 3. Paste beautiful code
